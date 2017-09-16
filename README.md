@@ -5,6 +5,7 @@
 
 ## Mapbox GL
 - [各城市绿色植被覆盖率](http://senseable.mit.edu/treepedia/cities/cape%20town)
+- [时间图](https://www.mapbox.com/labs/timemap/search/)(相关：https://blog.mapbox.com/a-new-kind-of-map-its-about-time-7bd9f7916f7f)
 
 
 ## ArcGIS js 2D
