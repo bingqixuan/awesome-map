@@ -1,7 +1,7 @@
 ﻿# awesome-map
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://awesome.re/)
 
-🐧 收集基于地图的一系列精美、有趣的网站
+🐧 收集基于流行地图框架开发的一系列精美、有趣、特别功能的网站
 
 ## Mapbox GL
 - [各城市绿色植被覆盖率](http://senseable.mit.edu/treepedia/cities/cape%20town)
