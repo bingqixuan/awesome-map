@@ -30,3 +30,4 @@
 
 ## 其他
 - [Windy气象可视化](https://www.windy.com/?24.480,118.082,5)
+- [卡巴斯基实时病毒威胁演示图](https://cybermap.kaspersky.com/)
