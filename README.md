@@ -29,6 +29,7 @@
 - [加州港湾实时飞机噪音可视化](http://volans.airportnetwork.com/js3d/volanspublicsfo.html)(参考：https://cesiumjs.org/demos/Volans/)
 - [柏林倾斜摄影模型](https://www.businesslocationcenter.de/wab/maps/main/?startingmap=cesium&lang=de&layerToActivate=plannings2010&cameraPosition=13.38178,52.52580,580.55025&groundPosition=13.36843,52.53012,33.97512&distance=1162.14&pitch=-28.06&heading=297.93&roll=359.81)
 - [捕鱼查看器](https://solr.research.cs.dal.ca/fishingobserver/site/cesium)
+- [飞行航线图](https://real.flightairmap.com/)
 
 
 ## 其他
