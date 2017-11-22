@@ -31,9 +31,11 @@
 - [柏林倾斜摄影模型](https://www.businesslocationcenter.de/wab/maps/main/?startingmap=cesium&lang=de&layerToActivate=plannings2010&cameraPosition=13.38178,52.52580,580.55025&groundPosition=13.36843,52.53012,33.97512&distance=1162.14&pitch=-28.06&heading=297.93&roll=359.81)
 - [捕鱼查看器](https://solr.research.cs.dal.ca/fishingobserver/site/cesium)
 - [飞行航线图](https://real.flightairmap.com/)
+- [火车动态实时轨迹](http://earth.geoglyph.info/en/mt3d.html?tc=553PILATUS)(参考：https://cesium.com/blog/2017/10/30/its-scary-what-you-can-build-with-cesium/)
 
 
 ## 其他
 - [Windy气象可视化](https://www.windy.com/?24.480,118.082,5)
 - [卡巴斯基实时病毒威胁演示图](https://cybermap.kaspersky.com/)
 - [灰狗查看？？](http://potree.entwine.io/data/mn.html)
+- [计算机病毒威胁图](https://www.fireeye.com/cyber-map/threat-map.html)
