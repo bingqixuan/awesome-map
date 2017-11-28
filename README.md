@@ -39,3 +39,4 @@
 - [卡巴斯基实时病毒威胁演示图](https://cybermap.kaspersky.com/)
 - [灰狗查看？？](http://potree.entwine.io/data/mn.html)
 - [计算机病毒威胁图](https://www.fireeye.com/cyber-map/threat-map.html)
+- [WebGL无限小镇](http://demos.littleworkshop.fr/infinitown)
