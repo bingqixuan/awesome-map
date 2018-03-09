@@ -39,6 +39,7 @@
 - [雷达分析、路径分析](https://saas.agi.com/CommServicesDemo/)
 - [3DTiles城市模型](https://cesium.com/ion/viewer/77fc6454-30d6-43fa-aa25-d55d2d10f80f)
 - [旅行路径查询](https://github.com/willgeary/Wayfinder3D)
+- [一款多人在线飞行游戏，有云、风、动态仪表盘](http://www.geo-fs.com/geofs.php)
 
 
 ## 其他
