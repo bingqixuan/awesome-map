@@ -60,3 +60,4 @@
 - [太阳系行星图](https://github.com/syt123450/Three.js-Solar-Exploration)
 - [交互式地图上的社会模拟](https://github.com/noncomputable/AgentMaps)
 - [旅行地图](https://pl.airbnb.com/map)
+- [谷歌做的立方体盒子地图](http://www.playmapscube.com/)
