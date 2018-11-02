@@ -7,6 +7,7 @@
 - [各城市绿色植被覆盖率](http://senseable.mit.edu/treepedia/cities/cape%20town)
 - [时间图](https://www.mapbox.com/labs/timemap/search/)(相关：https://blog.mapbox.com/a-new-kind-of-map-its-about-time-7bd9f7916f7f)
 - [波士顿动态道路可视化](http://senseable.mit.edu/cityways/app/)
+- [可视化世界人口](https://pudding.cool/2018/10/city_3d/)
 
 
 ## ArcGIS js 2D
