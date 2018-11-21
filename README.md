@@ -51,6 +51,8 @@
 ## ThreeJS
 - [二维地图中截取地形利用ThreeJS独立呈现](https://w3reality.github.io/three-geo/examples/geo-viewer/io/index.html?lat=-33.95070791605607&lng=18.38218690012582#)
 - [Earth 2050](https://2050.earth/)
+- [U2 tours 1979 - 2015](http://u2allovertheworld.com/)
+- [可视化武装数据](http://u2allovertheworld.com/)
 
 
 ## 其他
