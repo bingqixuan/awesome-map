@@ -5,7 +5,7 @@
 
 ## Mapbox GL
 - [各城市绿色植被覆盖率](http://senseable.mit.edu/treepedia/cities/cape%20town)
-	<img src="https://cesiumjs.org/demos/images/CyberCity.png" height="150" />
+![QQ截图20190109105931.jpg-52.3kB][1]
 - [时间图](https://www.mapbox.com/labs/timemap/search/)(相关：https://blog.mapbox.com/a-new-kind-of-map-its-about-time-7bd9f7916f7f)
 - [波士顿动态道路可视化](http://senseable.mit.edu/cityways/app/)
 - [可视化世界人口](https://pudding.cool/2018/10/city_3d/)
@@ -79,3 +79,6 @@
 - [地球上空物质的三维可视化](http://stuffin.space/)
 - [城市自行车路线图](https://tbaldw.in/citibike-trips/)
 - [交互式显示美国水文单元之间的拓扑关系](https://github.com/embeepea/watersheds)
+
+
+  [1]: http://static.zybuluo.com/bingqixuan/ipz0sjceb3nw2cxwlzkbbwgc/QQ%E6%88%AA%E5%9B%BE20190109105931.jpg
