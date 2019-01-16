@@ -82,11 +82,29 @@
 ![QQ截图20190114102204.jpg-56.5kB][17]
 
 - [捕鱼查看器](https://solr.research.cs.dal.ca/fishingobserver/site/cesium)
+
+![QQ截图20190115141105.jpg-32kB][18]
+
 - [飞行航线图](https://real.flightairmap.com/)
+
+![QQ截图20190116104142.jpg-26.5kB][19]
+
 - [火车动态实时轨迹](http://earth.geoglyph.info/en/mt3d.html?tc=553PILATUS)(参考：https://cesium.com/blog/2017/10/30/its-scary-what-you-can-build-with-cesium/)
+
+![QQ截图20190116104412.jpg-57.4kB][20]
+
 - [火山地震时空数据展示](http://volcano.si.axismaps.io/)
+
+![QQ截图20190116104908.jpg-28.5kB][21]
+
 - [北美热带风暴查看系统](http://tropicalatlantic.com/recon/recon.cgi?basin=al&mapping=cesium)
-- [GPS服务](https://saas.agi.com/analyticalServices/)
+
+![QQ截图20190116105608.jpg-64.4kB][22]
+
+- [AGI的GPS导航服务](http://saas.agi.com/GpsServicesDemo/)
+
+![QQ截图20190116105238.jpg-48.7kB][23]
+
 - [卫星航线计算服务](http://saas.agi.com/SatelliteServicesDemo/)
 - [雷达分析、路径分析](https://saas.agi.com/CommServicesDemo/)
 - [3DTiles城市模型](https://cesium.com/ion/viewer/77fc6454-30d6-43fa-aa25-d55d2d10f80f)
@@ -145,3 +163,9 @@
   [15]: http://static.zybuluo.com/bingqixuan/4bp5cikrghvi9h5jqg93ekat/QQ%E6%88%AA%E5%9B%BE20190114101629.jpg
   [16]: http://static.zybuluo.com/bingqixuan/idwwdpd6rbzhvhmrbm44402s/QQ%E6%88%AA%E5%9B%BE20190114101943.jpg
   [17]: http://static.zybuluo.com/bingqixuan/3kaod0hhhkuaynlzkw7hvb7c/QQ%E6%88%AA%E5%9B%BE20190114102204.jpg
+  [18]: http://static.zybuluo.com/bingqixuan/e6rudv6dverm3oeara953hi8/QQ%E6%88%AA%E5%9B%BE20190115141105.jpg
+  [19]: http://static.zybuluo.com/bingqixuan/qtazmjoje46n8uyzrti6npy5/QQ%E6%88%AA%E5%9B%BE20190116104142.jpg
+  [20]: http://static.zybuluo.com/bingqixuan/hmx2hwbfk7y3hnp59co41o7r/QQ%E6%88%AA%E5%9B%BE20190116104412.jpg
+  [21]: http://static.zybuluo.com/bingqixuan/p456fjrb0syxdmo3g9r0h8gv/QQ%E6%88%AA%E5%9B%BE20190116104908.jpg
+  [22]: http://static.zybuluo.com/bingqixuan/h2i4fkzoe3xig0r2wcq9oqn6/QQ%E6%88%AA%E5%9B%BE20190116105608.jpg
+  [23]: http://static.zybuluo.com/bingqixuan/12lfylyoayxe7bdgr86dzt9b/QQ%E6%88%AA%E5%9B%BE20190116105238.jpg
