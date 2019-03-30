@@ -131,6 +131,8 @@
 
 - [SpaceBook：空间信息展示](http://apps.agi.com/SatelliteViewer/)
 
+- [旅行记录](https://www.globaltimoto.com/)
+
 
 
 ## OpenLayer
