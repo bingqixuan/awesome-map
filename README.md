@@ -200,6 +200,8 @@
 
 ![QQ截图20190118111421.jpg-47.8kB][42]
 
+- [实时显示电力消耗的二氧化碳排放量](https://www.electricitymap.org/?page=country&solar=false&remote=true&wind=false&countryCode=IN-UP)
+
 
   [1]: http://static.zybuluo.com/bingqixuan/ipz0sjceb3nw2cxwlzkbbwgc/QQ%E6%88%AA%E5%9B%BE20190109105931.jpg
   [2]: http://static.zybuluo.com/bingqixuan/wa1okq91ol5ogt9b40fsi6nd/QQ%E6%88%AA%E5%9B%BE20190109110732.jpg
